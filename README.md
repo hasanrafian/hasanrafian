@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @hasanrafian
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hasan.rafian@gmail.com
 
 <!---
